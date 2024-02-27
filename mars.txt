@@ -1,3 +1,5 @@
 hi this is annan
 Nothing to commit 
+<<<<<<< HEAD
 We added a different line
+=======
